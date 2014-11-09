@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>blockclickdesk</name>
+	<displayName><![CDATA[Clickdesk live chat block]]></displayName>
+	<module_key>0d03f0a08793acf22bb0e4b82590fe1c</module_key>
+	<version><![CDATA[2.0]]></version>
+	<description><![CDATA[Adds ClickDesk live chat and call support]]></description>
+	<author><![CDATA[ClickDesk.com]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall>Are you sure  ?</confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
