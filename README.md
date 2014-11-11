@@ -111,7 +111,7 @@ Cho phép khách hàng thanh toán quan ngân hàng mà chủ tài khoản đang
 	
 
 
-II. Các module đã cài
+II. Các module cài thêm ở ngoài
 
 1. Click Desk chat
 2. SeninBlue
