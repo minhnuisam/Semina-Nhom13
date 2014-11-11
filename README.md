@@ -114,7 +114,7 @@ Cho phép khách hàng thanh toán quan ngân hàng mà chủ tài khoản đang
 II. Các module cài thêm ở ngoài
 
 1. Click Desk chat
-2. SeninBlue
+2. SendinBlue
 3. Magic Zoom plus 
 4. google master
 
