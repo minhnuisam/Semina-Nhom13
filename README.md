@@ -116,7 +116,7 @@ II. Các module cài thêm ở ngoài
 1. Click Desk chat
 2. SendinBlue
 3. Magic Zoom plus 
-4. google master
+4.  tao google master cho trnag web
 
 
 
