@@ -106,6 +106,12 @@ Cho phép khách hàng thanh toán quan ngân hàng mà chủ tài khoản đang
 26.	 Tích hợp Google Analytics
 Tích hợp Google Analytics vào trang web của bạn.
 
+II. Các module đã cài
+1. Click Desk chat
+2. SeninBlue
+3. Magic Zoom plus 
+3. 
+
 
 
 
