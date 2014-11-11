@@ -116,6 +116,7 @@ II. Các module cài thêm ở ngoài
 1. Click Desk chat
 2. SeninBlue
 3. Magic Zoom plus 
+4. google master
 
 
 
