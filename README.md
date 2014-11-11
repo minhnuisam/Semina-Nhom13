@@ -103,14 +103,20 @@ Hiển thị các sản phẩm khách đã xem
 25.	 Bank Write v1.0.3
 Cho phép khách hàng thanh toán quan ngân hàng mà chủ tài khoản đang ký
 
-26.	 Tích hợp Google Analytics
-Tích hợp Google Analytics vào trang web của bạn.
+26 .	Quản lý sản phẩm ( Thêm , xóa , cập nhật ...)
+
+27.	Quản lý đơn hàng(cập nhật trạng thái , thông tin khách hàng, phương thức vận chuyển ...)
+
+28.	Quản lý khách hàng(thay đổi thông tin, địa chỉ , số điên thoại, đơn hàng của khách hàng ...)
+	
+
 
 II. Các module đã cài
 
 1. Click Desk chat
 2. SeninBlue
 3. Magic Zoom plus 
+
 
 
 
